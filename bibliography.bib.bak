@@ -1,0 +1,475 @@
+% Encoding: UTF-8
+
+@Misc{Byrne2016,
+  author  = {Michael Byrne},
+  title   = {Stack Overflow Survey: JavaScript Is the Most Popular Programming Language},
+  year    = {2016},
+  note    = {Available at \url{https://motherboard.vice.com/en\_us/article/jpgpkk/stack-overflow-survey-javascript-is-the-most-popular-programming-language}},
+  journal = {Vice Motherboard},
+  url     = {https://motherboard.vice.com/en_us/article/jpgpkk/stack-overflow-survey-javascript-is-the-most-popular-programming-language},
+}
+
+@Misc{Cass2017,
+  author  = {Stephen Cass},
+  title   = {The 2017 Top Programming Languages},
+  year    = {2017},
+  note    = {Available at \url{https://spectrum.ieee.org/computing/software/the-2017-top-programming-languages}},
+  journal = {IEEE Spectrum},
+  url     = {https://spectrum.ieee.org/computing/software/the-2017-top-programming-languages},
+}
+
+@Misc{MDN2017,
+  title = {What is JavaScript?},
+  year  = {2017},
+  note  = {Available at \url{https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript}},
+  owner = {Mozilla Developer Network},
+}
+
+@Misc{souders2008high,
+  author    = {Souders, Steve},
+  title     = {High-performance web sites},
+  year      = {2008},
+  note      = {Available at \url{https://cacm.acm.org/magazines/2008/12/3358-high-performance-web-sites/fulltext}},
+  journal   = {Communications of the ACM},
+  number    = {12},
+  pages     = {36--41},
+  publisher = {ACM},
+  url       = {https://cacm.acm.org/magazines/2008/12/3358-high-performance-web-sites/fulltext},
+  volume    = {51},
+}
+
+@Misc{Eaton2012,
+  author  = {Kit Eaton},
+  title   = {How One Second Could Cost Amazon 1.6 Billion In Sales},
+  year    = {2012},
+  note    = {Available at \url{https://www.fastcompany.com/1825005/how-one-second-could-cost-amazon-16-billion-sales}},
+  journal = {Fast Company},
+}
+
+@Misc{Poushter2015,
+  author  = {Jacob Poushter and James Bell and Russ Oates},
+  title   = {Internet Seen as Positive Influence on Education but Negative on Morality in Emerging and Developing Nations},
+  year    = {2015},
+  note    = {Available at \url{http://assets.pewresearch.org/wp-content/uploads/sites/2/2015/03/Pew-Research-Center-Technology-Report-FINAL-March-19-20151.pdf}},
+  journal = {Pew Research Center},
+  url     = {http://assets.pewresearch.org/wp-content/uploads/sites/2/2015/03/Pew-Research-Center-Technology-Report-FINAL-March-19-20151.pdf},
+}
+
+@Misc{UN2012,
+  title = {Advancing Internet access in developing countries can help achieve sustainable economies – UN official},
+  year  = {2012},
+  note  = {Available at \url{http://www.un.org/apps/news/story.asp?NewsID=43459}},
+}
+
+@Misc{Dews2014,
+  author  = {Fred Dews},
+  title   = {How the Internet and Data Help the Developing World},
+  year    = {2014},
+  note    = {Available at \url{https://www.brookings.edu/blog/brookings-now/2014/02/06/how-the-internet-and-data-help-the-developing-world/}},
+  journal = {Brookings Now},
+  url     = {https://www.brookings.edu/blog/brookings-now/2014/02/06/how-the-internet-and-data-help-the-developing-world/},
+}
+
+@Misc{Poushter2016,
+  author  = {Jacob Poushter},
+  title   = {http://www.pewglobal.org/2016/02/22/smartphone-ownership-and-internet-usage-continues-to-climb-in-emerging-economies/},
+  year    = {2016},
+  note    = {Available at \url{http://www.pewglobal.org/2016/02/22/smartphone-ownership-and-internet-usage-continues-to-climb-in-emerging-economies/}},
+  journal = {Pew Research Center},
+  url     = {http://www.pewglobal.org/2016/02/22/smartphone-ownership-and-internet-usage-continues-to-climb-in-emerging-economies/},
+}
+
+@Misc{Crawford2013,
+  author = {Drew Crawford},
+  title  = {Why mobile web apps are slow},
+  year   = {2013},
+  note   = {Available at \url{http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/}},
+  url    = {http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/},
+}
+
+@InProceedings{ClosureCompiler,
+  author       = {Richards, Gregor and Lebresne, Sylvain and Burg, Brian and Vitek, Jan},
+  title        = {An analysis of the dynamic behavior of JavaScript programs},
+  booktitle    = {ACM Sigplan Notices},
+  year         = {2010},
+  volume       = {45},
+  number       = {6},
+  pages        = {1--12},
+  organization = {ACM},
+}
+
+@Misc{ThinScript,
+  author = {Evan Wallace},
+  title  = {ThinScript},
+  year   = {2016},
+  note   = {Available at \url{https://evanw.github.io/thinscript/}},
+}
+
+@Misc{TurboScript,
+  title = {TurboScript},
+  year  = {2017},
+  note  = {Available at \url{https://github.com/01alchemist/TurboScript}},
+}
+
+@Misc{AssemblyScript,
+  title = {AssemblyScript},
+  year  = {2017},
+  note  = {Available at \url{https://github.com/AssemblyScript/assemblyscript}},
+}
+
+@Article{czaplicki2012elm,
+  author  = {Czaplicki, Evan},
+  title   = {Elm: Concurrent frp for functional guis},
+  journal = {Senior thesis, Harvard University},
+  year    = {2012},
+}
+
+@Misc{ScalaJS,
+  title = {Scala.js},
+  note  = {Available at \url{http://www.scala-js.org/}},
+}
+
+@InProceedings{mohanty2014dart,
+  author       = {Mohanty, Sabyasachi and Dey, Smriti Rekha and others},
+  title        = {DART Evolved for Web-A Comparative Study with JavaScript},
+  booktitle    = {IJCA Proceedings on International Conference on Emergent Trends in Computing and Communication (ETCC-2014)},
+  year         = {2014},
+  number       = {1},
+  pages        = {73--77},
+  organization = {Foundation of Computer Science (FCS)},
+}
+
+@Misc{WebAssembly,
+  title = {WebAssembly},
+  note  = {Available at \url{http://webassembly.org/}},
+}
+
+@InProceedings{Zakai2011,
+  author    = {Zakai, Alon},
+  title     = {Emscripten: An LLVM-to-JavaScript Compiler},
+  booktitle = {Proceedings of the ACM International Conference Companion on Object Oriented Programming Systems Languages and Applications Companion},
+  year      = {2011},
+  series    = {OOPSLA '11},
+  pages     = {301--312},
+  address   = {New York, NY, USA},
+  publisher = {ACM},
+  acmid     = {2048224},
+  doi       = {10.1145/2048147.2048224},
+  isbn      = {978-1-4503-0942-4},
+  keywords  = {decompiler, javascript, llvm},
+  location  = {Portland, Oregon, USA},
+  numpages  = {12},
+  url       = {http://doi.acm.org/10.1145/2048147.2048224},
+}
+
+@Misc{js2cpp,
+  author = {Fabio Santos},
+  title  = {js2cpp},
+  year   = {2017},
+  note   = {Available at \url{https://github.com/fabiosantoscode/js2cpp}},
+}
+
+@Misc{Jurassic,
+  author = {Paul Bartrum},
+  title  = {Jurassic},
+  year   = {2017},
+  note   = {Available at \url{https://github.com/fabiosantoscode/js2cpp}},
+}
+
+@Misc{llilc,
+  title = {LLILC},
+  year  = {2016},
+  note  = {Available at \url{https://github.com/dotnet/llilc}},
+}
+
+@Misc{Rubanov2017,
+  author        = {Sergey Rubanov},
+  title         = {Compiling Rust to WebAssembly Guide},
+  month         = jan,
+  year          = {2017},
+  note          = {Available at \url{https://hackernoon.com/compiling-rust-to-webassembly-guide-411066a69fde}},
+  __markedentry = {[haran:1]},
+}
+
+@Misc{Fransham2017,
+  author        = {Jack Fransham},
+  title         = {Achieving warp speed with Rust},
+  year          = {2017},
+  note          = {Available at \url{https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1}},
+  __markedentry = {[haran:1]},
+}
+
+@Misc{Guoy,
+  author = {Isaac Guoy},
+  title  = {The Computer Language Benchmarks Game},
+  note   = {Available at \url{http://benchmarksgame.alioth.debian.org/}},
+}
+
+@Misc{ecmascript2011ecmascript,
+  author        = {ECMAScript, ECMA and European Computer Manufacturers Association and others},
+  title         = {Ecmascript language specification},
+  year          = {2011},
+  __markedentry = {[haran:1]},
+}
+
+@Misc{Tern,
+  title = {Tern: Intelligent Javascript tooling},
+  note  = {Available at \url{http://ternjs.net/}},
+}
+
+@Misc{Acorn,
+  title = {Acorn},
+  note  = {Available at \url{https://github.com/ternjs/acorn}},
+}
+
+@Book{Blandy2015,
+  title         = {Why Rust?},
+  publisher     = {O'Reilly},
+  year          = {2015},
+  author        = {Jim Blandy},
+  editor        = {Meghan Blanchette and Rachel Roumeliotis},
+  note          = {Available at \url{http://www.oreilly.com/programming/free/files/why-rust.pdf}},
+  __markedentry = {[haran:1]},
+}
+
+@Misc{Rust,
+  title = {The Rust Programming Language},
+  note  = {Available at \url{https://www.rust-lang.org/en-US/}},
+}
+
+@Booklet{Klabnik,
+  title  = {The Rust Programming Language},
+  author = {Steve Klabnik and Carol Nichols},
+  note   = {Available at \url{https://lise-henry.github.io/books/trpl2.pdf}},
+}
+
+@Misc{Babel,
+  title         = {Babel},
+  note          = {Available at \url{https://babeljs.io/}},
+  __markedentry = {[haran:1]},
+}
+
+@Misc{Languages,
+  title = {List of languages that compile to JS},
+  note  = {Available at \url{https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS}},
+}
+
+@Misc{Czaplicki2016,
+  author = {Evan Czaplicki},
+  title  = {Blazing Fast HTML},
+  month  = Aug,
+  year   = {2016},
+  note   = {Available at \url{http://elm-lang.org/blog/blazing-fast-html-round-two}},
+}
+
+@Misc{MDN2017Wasm,
+  title        = {WebAssembly},
+  howpublished = {Mozilla Developer Network},
+  year         = {2017},
+  note         = {Available from \url{https://developer.mozilla.org/en-US/docs/WebAssembly}},
+}
+
+@Misc{Reiser2017,
+  author = {Micah Reiser},
+  title  = {Speedy.js Language Reference},
+  year   = {2017},
+  note   = {Available at \url{https://github.com/MichaReiser/speedy.js/wiki/Speedy.js-Language-Reference}},
+}
+
+@Misc{ts2c,
+  author = {Andrei Markeev},
+  title  = {Javascript/TypeScript to C transpiler},
+  year   = {2017},
+  note   = {Available at \url{https://github.com/andrei-markeev/ts2c}},
+}
+
+@Unpublished{Haas2017,
+  author = {Andreas Haas, Andreas Rossberg, Derek L. Schuff, Ben L. Titzer, Dan Gohman, Luke Wagner, Alon Zakai, Michael Holman, JF Bastien},
+  title  = {Bringing the Web up to Speed with WebAssembly},
+  note   = {Available at \url{https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf}},
+  month  = jun,
+  year   = {2017},
+}
+
+@Misc{Chartrand2016,
+  author       = {Ryan Chartrand},
+  title        = {The top rising JavaScript trends to watch in 2017},
+  howpublished = {Web},
+  month        = dec,
+  year         = {2016},
+  note         = {Available at \url{https://medium.com/commit-push/the-top-rising-javascript-trends-to-watch-in-2017-86d8e87db3b3}},
+}
+
+@Misc{Bryant,
+  author       = {David Bryant},
+  title        = {Why WebAssembly is a game changer for the web — and a source of pride for Mozilla and Firefox},
+  howpublished = {Web},
+  month        = mar,
+  note         = {Available at \url{https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb}},
+}
+
+@Misc{Zaytsev,
+  author       = {Juriy Zaytsev},
+  title        = {EcmaScript Compatibility Table},
+  howpublished = {Web},
+  note         = {Available at \url{https://kangax.github.io/compat-table/es5/}},
+}
+
+@Misc{MDN2017Mem,
+  title        = {Memory Management},
+  howpublished = {Web},
+  year         = {2017},
+  note         = {Available at \url{https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management}},
+  owner        = {Mozilla Developer Network},
+}
+
+@Misc{Anderson_performinglisp,
+  author = {Kenneth Anderson and Duane Rettig},
+  title  = {Performing Lisp Analysis of the FANNKUCH Benchmark},
+}
+
+@Misc{mozilladata,
+  title = {JavaScript data types and data structures},
+  year  = {2017},
+  note  = {Available at \url{https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures}},
+}
+
+@Misc{jsdoc,
+  title = {JSDoc},
+  year  = {2017},
+  note  = {Available at \url{http://usejsdoc.org/}},
+}
+
+@Article{hoare2009null,
+  author  = {Hoare, Tony},
+  title   = {Null references: The billion dollar mistake},
+  journal = {Presentation at QCon London},
+  year    = {2009},
+  volume  = {298},
+}
+
+@Misc{mdninheritance,
+  title = {Inheritance and the prototype chain},
+  year  = {2017},
+  note  = {Available at \url{https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain}},
+}
+
+@Misc{prepack,
+  title = {Prepack},
+  year  = {2017},
+  note  = {Available at \url{https://prepack.io/}},
+}
+
+@Misc{Clark2017,
+  author = {Lin Clark},
+  title  = {Where is WebAssembly now and what’s next?},
+  month  = feb,
+  year   = {2017},
+  note   = {Available at \url{https://hacks.mozilla.org/2017/02/where-is-webassembly-now-and-whats-next/}},
+}
+
+@Misc{Matsakis2016,
+  author = {Niko Matsakis},
+  title  = {Introducing MIR},
+  month  = apr,
+  year   = {2016},
+  note   = {Available at \url{https://blog.rust-lang.org/2016/04/19/MIR.html}},
+}
+
+@Misc{Motto2014,
+  author = {Todd Motto},
+  title  = {Replacing switch statements with Object literals},
+  month  = jul,
+  year   = {2014},
+  note   = {Available at \url{https://toddmotto.com/deprecating-the-switch-statement-for-object-literals/#problems-with-switch}},
+}
+
+@Misc{mdnvar,
+  title = {var},
+  year  = {2017},
+  note  = {Available at \url{https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var}},
+}
+
+@InProceedings{gao2017type,
+  author       = {Gao, Zheng and Bird, Christian and Barr, Earl T},
+  title        = {To type or not to type: quantifying detectable bugs in JavaScript},
+  booktitle    = {Proceedings of the 39th International Conference on Software Engineering},
+  year         = {2017},
+  pages        = {758--769},
+  organization = {IEEE Press},
+}
+
+@Misc{serde,
+  title = {Serde},
+  year  = {2017},
+  note  = {Available at \url{https://serde.rs/}},
+}
+
+@Misc{regex,
+  title = {Crate regex},
+  year  = {2015},
+  note  = {Available at \url{https://doc.rust-lang.org/regex/regex/index.html}},
+}
+
+@Misc{rayon,
+  author = {Niko Matsakis},
+  title  = {Rayon},
+  year   = {2017},
+  note   = {Available at \url{https://github.com/nikomatsakis/rayon}},
+}
+
+@Misc{async,
+  title = {MIO},
+  year  = {Carl Lerche},
+  note  = {Available at \url{https://github.com/carllerche/mio}},
+}
+
+@Misc{Snell2017,
+  author = {James M. Snell and Colin Ihrig},
+  title  = {Node v8.0.0 (Current)},
+  month  = may,
+  year   = {2017},
+  note   = {Available at \url{https://nodejs.org/en/blog/release/v8.0.0/}},
+}
+
+@Misc{aws,
+  title = {Amazon EC2 Instance Types},
+  note  = {Available at \url{https://aws.amazon.com/ec2/instance-types/}},
+}
+
+@Misc{Brown2017,
+  author = {Paul Brown},
+  title  = {State of the Union: npm},
+  month  = jan,
+  year   = {2017},
+  note   = {Available at \url{https://www.linux.com/news/event/Nodejs/2016/state-union-npm}},
+}
+
+@Misc{Dugan2015,
+  author = {John Dugan},
+  title  = {Object Oriented JavaScript Pattern Comparison},
+  month  = feb,
+  year   = {2015},
+  note   = {Available at \url{https://john-dugan.com/object-oriented-javascript-pattern-comparison/}},
+}
+
+@Misc{llvm2017,
+  title = {LLVM’s Analysis and Transform Passes},
+  month = sep,
+  year  = {2017},
+  note  = {Available at \url{https://llvm.org/docs/Passes.html}},
+}
+
+@Misc{rustref,
+  title = {The Reference},
+  year  = {2017},
+  note  = {Available at \url{https://doc.rust-lang.org/reference/}},
+}
+
+@InBook{Lane,
+  chapter = {XV},
+  title   = {Online Statistics Education: An Interactive Multimedia Course of Study},
+  author  = {David M. Lane},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

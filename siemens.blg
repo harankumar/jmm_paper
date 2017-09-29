@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: siemens.aux
+The style file: ieeetr.bst
+Database file #1: bibliography.bib
+Warning--can't use both volume and number fields in ClosureCompiler
+Warning--there's a number but no series in mohanty2014dart
+Too many commas in name 1 of "Andreas Haas, Andreas Rossberg, Derek L. Schuff, Ben L. Titzer, Dan Gohman, Luke Wagner, Alon Zakai, Michael Holman, JF Bastien" for entry Haas2017
+while executing---line 969 of file ieeetr.bst
+Too many commas in name 1 of "Andreas Haas, Andreas Rossberg, Derek L. Schuff, Ben L. Titzer, Dan Gohman, Luke Wagner, Alon Zakai, Michael Holman, JF Bastien" for entry Haas2017
+while executing---line 969 of file ieeetr.bst
+Too many commas in name 1 of "Andreas Haas, Andreas Rossberg, Derek L. Schuff, Ben L. Titzer, Dan Gohman, Luke Wagner, Alon Zakai, Michael Holman, JF Bastien" for entry Haas2017
+while executing---line 969 of file ieeetr.bst
+Too many commas in name 1 of "Andreas Haas, Andreas Rossberg, Derek L. Schuff, Ben L. Titzer, Dan Gohman, Luke Wagner, Alon Zakai, Michael Holman, JF Bastien" for entry Haas2017
+while executing---line 969 of file ieeetr.bst
+Too many commas in name 1 of "Andreas Haas, Andreas Rossberg, Derek L. Schuff, Ben L. Titzer, Dan Gohman, Luke Wagner, Alon Zakai, Michael Holman, JF Bastien" for entry Haas2017
+while executing---line 969 of file ieeetr.bst
+Too many commas in name 1 of "Andreas Haas, Andreas Rossberg, Derek L. Schuff, Ben L. Titzer, Dan Gohman, Luke Wagner, Alon Zakai, Michael Holman, JF Bastien" for entry Haas2017
+while executing---line 969 of file ieeetr.bst
+Warning--there's a month but no year in Bryant
+Warning--empty publisher in Lane
+Warning--empty year in Lane
+You've used 60 entries,
+            1876 wiz_defined-function locations,
+            755 strings with 11834 characters,
+and the built_in function-call counts, 8386 in all, are:
+= -- 837
+> -- 221
+< -- 0
++ -- 111
+- -- 51
+* -- 349
+:= -- 1077
+add.period$ -- 101
+call.type$ -- 60
+change.case$ -- 59
+chr.to.int$ -- 0
+cite$ -- 65
+duplicate$ -- 317
+empty$ -- 1138
+format.name$ -- 51
+if$ -- 2198
+int.to.chr$ -- 0
+int.to.str$ -- 60
+missing$ -- 8
+newline$ -- 234
+num.names$ -- 37
+pop$ -- 417
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 223
+stack$ -- 0
+substring$ -- 107
+swap$ -- 34
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 49
+width$ -- 62
+write$ -- 514
+(There were 6 error messages)

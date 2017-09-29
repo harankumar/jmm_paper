@@ -1,0 +1,286 @@
+\begin{thebibliography}{10}
+
+\bibitem{Byrne2016}
+M.~Byrne, ``Stack overflow survey: Javascript is the most popular programming
+  language,'' 2016.
+\newblock Available at
+  \url{https://motherboard.vice.com/en\_us/article/jpgpkk/stack-overflow-survey-javascript-is-the-most-popular-programming-language}.
+
+\bibitem{Cass2017}
+S.~Cass, ``The 2017 top programming languages,'' 2017.
+\newblock Available at
+  \url{https://spectrum.ieee.org/computing/software/the-2017-top-programming-languages}.
+
+\bibitem{MDN2017}
+``What is javascript?,'' 2017.
+\newblock Available at
+  \url{https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript}.
+
+\bibitem{Crawford2013}
+D.~Crawford, ``Why mobile web apps are slow,'' 2013.
+\newblock Available at
+  \url{http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/}.
+
+\bibitem{Eaton2012}
+K.~Eaton, ``How one second could cost amazon 1.6 billion in sales,'' 2012.
+\newblock Available at
+  \url{https://www.fastcompany.com/1825005/how-one-second-could-cost-amazon-16-billion-sales}.
+
+\bibitem{souders2008high}
+S.~Souders, ``High-performance web sites,'' 2008.
+\newblock Available at
+  \url{https://cacm.acm.org/magazines/2008/12/3358-high-performance-web-sites/fulltext}.
+
+\bibitem{Poushter2016}
+J.~Poushter,
+  ``http://www.pewglobal.org/2016/02/22/smartphone-ownership-and-internet-usage-continues-to-climb-in-emerging-economies/,''
+  2016.
+\newblock Available at
+  \url{http://www.pewglobal.org/2016/02/22/smartphone-ownership-and-internet-usage-continues-to-climb-in-emerging-economies/}.
+
+\bibitem{Poushter2015}
+J.~Poushter, J.~Bell, and R.~Oates, ``Internet seen as positive influence on
+  education but negative on morality in emerging and developing nations,''
+  2015.
+\newblock Available at
+  \url{http://assets.pewresearch.org/wp-content/uploads/sites/2/2015/03/Pew-Research-Center-Technology-Report-FINAL-March-19-20151.pdf}.
+
+\bibitem{Dews2014}
+F.~Dews, ``How the internet and data help the developing world,'' 2014.
+\newblock Available at
+  \url{https://www.brookings.edu/blog/brookings-now/2014/02/06/how-the-internet-and-data-help-the-developing-world/}.
+
+\bibitem{UN2012}
+``Advancing internet access in developing countries can help achieve
+  sustainable economies – un official,'' 2012.
+\newblock Available at
+  \url{http://www.un.org/apps/news/story.asp?NewsID=43459}.
+
+\bibitem{ClosureCompiler}
+G.~Richards, S.~Lebresne, B.~Burg, and J.~Vitek, ``An analysis of the dynamic
+  behavior of javascript programs,'' in {\em ACM Sigplan Notices}, vol.~45,
+  pp.~1--12, ACM, 2010.
+
+\bibitem{Languages}
+``List of languages that compile to js.''
+\newblock Available at
+  \url{https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS}.
+
+\bibitem{mohanty2014dart}
+S.~Mohanty, S.~R. Dey, {\em et~al.}, ``Dart evolved for web-a comparative study
+  with javascript,'' in {\em IJCA Proceedings on International Conference on
+  Emergent Trends in Computing and Communication (ETCC-2014)}, no.~1,
+  pp.~73--77, Foundation of Computer Science (FCS), 2014.
+
+\bibitem{ScalaJS}
+``Scala.js.''
+\newblock Available at \url{http://www.scala-js.org/}.
+
+\bibitem{czaplicki2012elm}
+E.~Czaplicki, ``Elm: Concurrent frp for functional guis,'' {\em Senior thesis,
+  Harvard University}, 2012.
+
+\bibitem{Czaplicki2016}
+E.~Czaplicki, ``Blazing fast html,'' Aug. 2016.
+\newblock Available at
+  \url{http://elm-lang.org/blog/blazing-fast-html-round-two}.
+
+\bibitem{Haas2017}
+D.~L. S. B. L. T. D. G. L. W. A. Z. M. H. J.~B. Andreas~Haas, Andreas~Rossberg,
+  ``Bringing the web up to speed with webassembly.'' Available at
+  \url{https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf},
+  June 2017.
+
+\bibitem{Zakai2011}
+A.~Zakai, ``Emscripten: An llvm-to-javascript compiler,'' in {\em Proceedings
+  of the ACM International Conference Companion on Object Oriented Programming
+  Systems Languages and Applications Companion}, OOPSLA '11, (New York, NY,
+  USA), pp.~301--312, ACM, 2011.
+
+\bibitem{Chartrand2016}
+R.~Chartrand, ``The top rising javascript trends to watch in 2017.'' Web, Dec.
+  2016.
+\newblock Available at
+  \url{https://medium.com/commit-push/the-top-rising-javascript-trends-to-watch-in-2017-86d8e87db3b3}.
+
+\bibitem{Bryant}
+D.~Bryant, ``Why webassembly is a game changer for the web — and a source
+  of pride for mozilla and firefox.'' Web, Mar.
+\newblock Available at
+  \url{https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb}.
+
+\bibitem{Brown2017}
+P.~Brown, ``State of the union: npm,'' Jan. 2017.
+\newblock Available at
+  \url{https://www.linux.com/news/event/Nodejs/2016/state-union-npm}.
+
+\bibitem{Reiser2017}
+M.~Reiser, ``Speedy.js language reference,'' 2017.
+\newblock Available at
+  \url{https://github.com/MichaReiser/speedy.js/wiki/Speedy.js-Language-Reference}.
+
+\bibitem{ThinScript}
+E.~Wallace, ``Thinscript,'' 2016.
+\newblock Available at \url{https://evanw.github.io/thinscript/}.
+
+\bibitem{TurboScript}
+``Turboscript,'' 2017.
+\newblock Available at \url{https://github.com/01alchemist/TurboScript}.
+
+\bibitem{AssemblyScript}
+``Assemblyscript,'' 2017.
+\newblock Available at \url{https://github.com/AssemblyScript/assemblyscript}.
+
+\bibitem{js2cpp}
+F.~Santos, ``js2cpp,'' 2017.
+\newblock Available at \url{https://github.com/fabiosantoscode/js2cpp}.
+
+\bibitem{ts2c}
+A.~Markeev, ``Javascript/typescript to c transpiler,'' 2017.
+\newblock Available at \url{https://github.com/andrei-markeev/ts2c}.
+
+\bibitem{Jurassic}
+P.~Bartrum, ``Jurassic,'' 2017.
+\newblock Available at \url{https://github.com/fabiosantoscode/js2cpp}.
+
+\bibitem{llilc}
+``Llilc,'' 2016.
+\newblock Available at \url{https://github.com/dotnet/llilc}.
+
+\bibitem{ecmascript2011ecmascript}
+E.~ECMAScript, E.~C.~M. Association, {\em et~al.}, ``Ecmascript language
+  specification,'' 2011.
+
+\bibitem{Zaytsev}
+J.~Zaytsev, ``Ecmascript compatibility table.'' Web.
+\newblock Available at \url{https://kangax.github.io/compat-table/es5/}.
+
+\bibitem{Babel}
+``Babel.''
+\newblock Available at \url{https://babeljs.io/}.
+
+\bibitem{MDN2017Mem}
+``Memory management.'' Web, 2017.
+\newblock Available at
+  \url{https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management}.
+
+\bibitem{Klabnik}
+S.~Klabnik and C.~Nichols, ``The rust programming language.''
+\newblock Available at \url{https://lise-henry.github.io/books/trpl2.pdf}.
+
+\bibitem{mozilladata}
+``Javascript data types and data structures,'' 2017.
+\newblock Available at
+  \url{https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures}.
+
+\bibitem{jsdoc}
+``Jsdoc,'' 2017.
+\newblock Available at \url{http://usejsdoc.org/}.
+
+\bibitem{hoare2009null}
+T.~Hoare, ``Null references: The billion dollar mistake,'' {\em Presentation at
+  QCon London}, vol.~298, 2009.
+
+\bibitem{mdninheritance}
+``Inheritance and the prototype chain,'' 2017.
+\newblock Available at
+  \url{https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain}.
+
+\bibitem{Dugan2015}
+J.~Dugan, ``Object oriented javascript pattern comparison,'' Feb. 2015.
+\newblock Available at
+  \url{https://john-dugan.com/object-oriented-javascript-pattern-comparison/}.
+
+\bibitem{Motto2014}
+T.~Motto, ``Replacing switch statements with object literals,'' July 2014.
+\newblock Available at
+  \url{https://toddmotto.com/deprecating-the-switch-statement-for-object-literals/#problems-with-switch}.
+
+\bibitem{mdnvar}
+``var,'' 2017.
+\newblock Available at
+  \url{https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var}.
+
+\bibitem{Rust}
+``The rust programming language.''
+\newblock Available at \url{https://www.rust-lang.org/en-US/}.
+
+\bibitem{Rubanov2017}
+S.~Rubanov, ``Compiling rust to webassembly guide,'' Jan. 2017.
+\newblock Available at
+  \url{https://hackernoon.com/compiling-rust-to-webassembly-guide-411066a69fde}.
+
+\bibitem{llvm2017}
+``Llvm’s analysis and transform passes,'' Sept. 2017.
+\newblock Available at \url{https://llvm.org/docs/Passes.html}.
+
+\bibitem{Matsakis2016}
+N.~Matsakis, ``Introducing mir,'' Apr. 2016.
+\newblock Available at \url{https://blog.rust-lang.org/2016/04/19/MIR.html}.
+
+\bibitem{serde}
+``Serde,'' 2017.
+\newblock Available at \url{https://serde.rs/}.
+
+\bibitem{regex}
+``Crate regex,'' 2015.
+\newblock Available at \url{https://doc.rust-lang.org/regex/regex/index.html}.
+
+\bibitem{async}
+``Mio,'' Carl Lerche.
+\newblock Available at \url{https://github.com/carllerche/mio}.
+
+\bibitem{rayon}
+N.~Matsakis, ``Rayon,'' 2017.
+\newblock Available at \url{https://github.com/nikomatsakis/rayon}.
+
+\bibitem{Acorn}
+``Acorn.''
+\newblock Available at \url{https://github.com/ternjs/acorn}.
+
+\bibitem{Tern}
+``Tern: Intelligent javascript tooling.''
+\newblock Available at \url{http://ternjs.net/}.
+
+\bibitem{rustref}
+``The reference,'' 2017.
+\newblock Available at \url{https://doc.rust-lang.org/reference/}.
+
+\bibitem{Guoy}
+I.~Guoy, ``The computer language benchmarks game.''
+\newblock Available at \url{http://benchmarksgame.alioth.debian.org/}.
+
+\bibitem{aws}
+``Amazon ec2 instance types.''
+\newblock Available at \url{https://aws.amazon.com/ec2/instance-types/}.
+
+\bibitem{Snell2017}
+J.~M. Snell and C.~Ihrig, ``Node v8.0.0 (current),'' May 2017.
+\newblock Available at \url{https://nodejs.org/en/blog/release/v8.0.0/}.
+
+\bibitem{Anderson_performinglisp}
+K.~Anderson and D.~Rettig, ``Performing lisp analysis of the fannkuch
+  benchmark.''
+
+\bibitem{Lane}
+D.~M. Lane, {\em Online Statistics Education: An Interactive Multimedia Course
+  of Study}, ch.~XV.
+\newblock Available at
+  \url{http://onlinestatbook.com/2/analysis_of_variance/ANOVA.html}.
+
+\bibitem{Clark2017}
+L.~Clark, ``Where is webassembly now and what’s next?,'' Feb. 2017.
+\newblock Available at
+  \url{https://hacks.mozilla.org/2017/02/where-is-webassembly-now-and-whats-next/}.
+
+\bibitem{gao2017type}
+Z.~Gao, C.~Bird, and E.~T. Barr, ``To type or not to type: quantifying
+  detectable bugs in javascript,'' in {\em Proceedings of the 39th
+  International Conference on Software Engineering}, pp.~758--769, IEEE Press,
+  2017.
+
+\bibitem{prepack}
+``Prepack,'' 2017.
+\newblock Available at \url{https://prepack.io/}.
+
+\end{thebibliography}
